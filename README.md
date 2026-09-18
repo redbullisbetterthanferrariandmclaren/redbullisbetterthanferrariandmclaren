@@ -48,12 +48,3 @@
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   </p>
 </details>
-
-<br />
-
-### GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redbullisbetterthanferrariandmclaren&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redbullisbetterthanferrariandmclaren&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
